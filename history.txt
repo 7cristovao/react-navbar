@@ -1,0 +1,9 @@
+npm create vite@latest react-app -- -- navbar-react
+cd react-app
+npm install
+npm run dev
+npm install -D tailwindcss
+npm install react-icons --save
+npm install react-scroll
+npm install --save aos@next
+npm install react-router-dom
